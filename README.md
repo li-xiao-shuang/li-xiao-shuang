@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=li-xiao-shuang" alt="li-xiao-shuang" /></a> </p>
 
 - 🌱 I’m currently learning **Golang、Dokcer、Kubernetes、Service Mesh**
-- [Alibaba Nacos Committer](https://github.com/alibaba/nacos)
-- [dtm Contributor](https://github.com/yedf/dtm)
+- [Alibaba Nacos(服务注册与发现、配置) Committer](https://github.com/alibaba/nacos)
+- [dtm(分布式事务框架) Contributor](https://github.com/yedf/dtm)
 
 - 📫 How to reach me **644968328@qq.com**
 
