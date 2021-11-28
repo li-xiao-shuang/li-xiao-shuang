@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang、Dokcer、Kubernetes、Service Mesh**
 - [Alibaba Nacos(服务注册与发现、配置) Committer](https://github.com/alibaba/nacos)
-- [dtm(分布式事务框架) Contributor](https://github.com/yedf/dtm)
+- [dtm(分布式事务框架) Committer](https://github.com/yedf/dtm)
 
 - 📫 How to reach me **644968328@qq.com**
 
