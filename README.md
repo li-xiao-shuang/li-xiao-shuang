@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning **Golang、Dokcer、Kubernetes、Service Mesh**
 - [Alibaba Nacos(服务注册与发现、配置) Committer](https://github.com/alibaba/nacos)
 - [dtm(分布式事务框架) Committer](https://github.com/yedf/dtm)
-- [Polarismesh (服务发现和治理中心) Committer](https://github.com/polarismesh)
+- [polaris (服务发现和治理中心) Committer](https://github.com/polarismesh)
+- [Apache EventMesh(动态事件驱动) Contributor](https://github.com/apache/incubator-eventmesh)
 
 - 📫 How to reach me **644968328@qq.com**
 
