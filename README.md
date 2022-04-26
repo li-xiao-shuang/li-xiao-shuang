@@ -14,9 +14,9 @@
 
 - 📫 How to reach me 
 
-     **邮箱：644968328@qq.com**
+     **Email：644968328@qq.com**
      
-     **微信：lx6688s**
+     **WeChat：lx6688s**
 
 
 <h3 align="left">Languages and Tools:</h3>
