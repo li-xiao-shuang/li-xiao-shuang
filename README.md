@@ -12,7 +12,9 @@
 - [Apache RocketMQ (分布式消息引擎) Contributor](https://github.com/apache/rocketmq)
 - [Apache EventMesh (动态事件驱动) Contributor](https://github.com/apache/incubator-eventmesh)
 
-- 📫 How to reach me **644968328@qq.com**
+- 📫 How to reach me 
+     **644968328@qq.com**
+     **微信：lx6688s**
 
 
 <h3 align="left">Languages and Tools:</h3>
