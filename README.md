@@ -13,7 +13,9 @@
 - [Apache EventMesh (动态事件驱动) Contributor](https://github.com/apache/incubator-eventmesh)
 
 - 📫 How to reach me 
-     **644968328@qq.com**
+
+     **邮箱：644968328@qq.com**
+     
      **微信：lx6688s**
 
 
