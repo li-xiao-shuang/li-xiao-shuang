@@ -13,7 +13,7 @@
 
 <div align="center">
 <summary>:trophy: Github Profile Trophy</summary>
-</div>
+</div></p>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=li-xiao-shuang&no-frame=true" /> </div>
 
 <div  align="center"> <img src="https://github-readme-stats.vercel.app/api?username=li-xiao-shuang&show_icons=true&theme=radical&cache_seconds=1800&locale=en" alt="li-xiao-shuang" /> </div>
@@ -23,8 +23,9 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 ![](https://raw.githubusercontent.com/li-xiao-shuang/li-xiao-shuang/main/assets/github-contribution-grid-snake.svg)
 
+<hr>
 
-### 📫 How to reach me 
+### How to reach me 📫 
 - **Email：644968328@qq.com**
 - **WeChat：lx6688s**
 
