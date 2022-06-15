@@ -1,7 +1,6 @@
 ![](./image/header_.png)
 
 <!--   my-header-img -->
-![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
@@ -10,7 +9,10 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=li-xiao-shuang&show_icons=true&theme=radical&cache_seconds=1800&locale=en" alt="li-xiao-shuang" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=li-xiao-shuang" alt="li-xiao-shuang" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=li-xiao-shuang&no-frame=true" alt="li-xiao-shuang" /></a> </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=li-xiao-shuang)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
