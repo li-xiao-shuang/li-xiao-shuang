@@ -14,7 +14,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=li-xiao-shuang&show_icons=true&theme=radical&cache_seconds=1800&locale=en" alt="li-xiao-shuang" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=li-xiao-shuang&no-frame=true" alt="li-xiao-shuang" /></a> </p>
 
+![](https://raw.githubusercontent.com/li-xiao-shuang/li-xiao-shuang/main/assets/github-contribution-grid-snake.svg)
 
 ### 📫 How to reach me 
 - **Email：644968328@qq.com**
 - **WeChat：lx6688s**
+
+### Profile Views
+counting of visitors to this page in this section started from June 15, 2022
+
+![](https://count.getloli.com/get/@li-xiao-shuang.github.readme)
+</br>
