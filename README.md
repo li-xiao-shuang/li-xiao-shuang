@@ -19,8 +19,10 @@
 <div  align="center"> <img src="https://github-readme-stats.vercel.app/api?username=li-xiao-shuang&show_icons=true&theme=radical&cache_seconds=1800&locale=en" alt="li-xiao-shuang" /> </div>
 
 
-
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
 ![](https://raw.githubusercontent.com/li-xiao-shuang/li-xiao-shuang/main/assets/github-contribution-grid-snake.svg)
+
 
 ### 📫 How to reach me 
 - **Email：644968328@qq.com**
