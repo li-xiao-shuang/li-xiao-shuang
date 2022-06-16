@@ -4,7 +4,7 @@
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=610&height=200&lines=Hi+there+%F0%9F%91%8B%2C;Welcome+to+My+Profile%2C;I+am+Li+Xiao+Shuang%2C;A+passionate+backend+developer+from+Beijing+China%2C;Over+4+years+of+programming+experience%2C;Always+learning+new+things%2C;Microservices+and+middleware+enthusiast%2C;Nacos+community+committer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=610&height=210&lines=Hi+there+%F0%9F%91%8B%2C;Welcome+to+My+Profile%2C;I+am+Li+Xiao+Shuang%2C;A+passionate+backend+developer+from+Beijing+China%2C;Over+4+years+of+programming+experience%2C;Always+learning+new+things%2C;Microservices+and+middleware+enthusiast%2C;Nacos+community+committer.)](https://git.io/typing-svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
