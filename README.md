@@ -26,7 +26,7 @@
 <hr>
 
 ### How to reach me 📫 
-- **Email：644968328@qq.com**
+- **Email：lixiaoshuang@apache.org**
 - **WeChat：lx6688s**
 
 ### Profile Views
