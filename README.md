@@ -29,6 +29,9 @@
 - **Email：lixiaoshuang@apache.org**
 - **WeChat：lx6688s**
 
+### Xiaoshuang Blogs
+https://www.xiaoshuang.fun/
+
 ### Profile Views
 
 ![](https://count.getloli.com/get/@li-xiao-shuang.github.readme)
