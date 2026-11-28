@@ -1,38 +1,136 @@
-![](./image/header_.png)
+# Hi, I'm Li Xiaoshuang 👋
 
-<!--   my-header-img -->
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="right" height="48" width="48" ></a>
+### Backend Engineer → AI Engineering
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=610&height=210&lines=Hi+there+%F0%9F%91%8B%2C;Welcome+to+My+Profile%2C;I+am+Li+Xiao+Shuang%2C;A+passionate+backend+developer+from+Beijing+China%2C;Over+4+years+of+programming+experience%2C;Always+learning+new+things%2C;Microservices+and+middleware+enthusiast%2C;Nacos+community+committer.)](https://git.io/typing-svg)
+8+ years of experience building backend systems for **transactions, payments, and cross-border financial infrastructure**.
 
+My engineering foundation is in **Java, distributed systems, transaction systems and backend architecture**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-<hr>
+I'm now exploring **AI Agents, MCP and AI-powered software engineering**, with a focus on building practical and enterprise-oriented AI systems.
 
-<div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
-</div></p>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=li-xiao-shuang&no-frame=true" /> </div>
+---
 
-<div  align="center"> <img src="https://github-readme-stats.vercel.app/api?username=li-xiao-shuang&show_icons=true&theme=radical&cache_seconds=1800&locale=en" alt="li-xiao-shuang" /> </div>
+## 🧭 About Me
 
+- 💻 8+ years of backend engineering experience
+- 💳 Cross-border payments and transaction systems
+- 🏗 Distributed systems and backend architecture
+- ☕ Java as my engineering foundation
+- 🤖 Currently moving deeper into AI Engineering
+- 🔌 Exploring Agents, MCP, Tool Use and AI-native software engineering
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-season-animate.svg)
-![](https://raw.githubusercontent.com/li-xiao-shuang/li-xiao-shuang/main/assets/github-contribution-grid-snake.svg)
+My current direction:
 
-<hr>
+**Backend Engineering × Payment Domain × AI Engineering**
 
-### How to reach me 📫 
-- **Email：lixiaoshuang@apache.org**
-- **WeChat：lx6688s**
+---
 
-### Xiaoshuang Blogs
-https://www.xiaoshuang.fun/
+## 🚀 What I'm Building
 
-### Profile Views
+### 🧠 Enterprise Agent OS
 
-![](https://count.getloli.com/get/@li-xiao-shuang.github.readme)
-</br>
+Building an enterprise-oriented Agent OS for AI-powered software engineering.
+
+The goal is to provide a unified foundation for:
+
+- Agent orchestration
+- Skills & tools
+- MCP
+- Context & memory
+- Task lifecycle
+- Multi-agent collaboration
+- Enterprise security and observability
+
+Currently exploring the architecture and building the foundation from first principles.
+
+**Status:** 🟡 Building
+
+---
+
+### 📚 AI Agent Engineering Journey
+
+A systematic learning journey into AI Agent engineering.
+
+Documenting what I learn, build and discover while exploring:
+
+- Agent Architecture
+- MCP
+- Tool Use
+- Agent Memory
+- Multi-Agent Systems
+- AI Coding
+- AI Software Engineering
+
+→ [Explore the journey](https://github.com/li-xiao-shuang/ai-agent-engineering-journey)
+
+---
+
+## 🏗 Engineering Background
+
+### Backend
+
+`Java` · `Spring Boot` · `MySQL` · `Redis` · `RocketMQ` · `Elasticsearch`
+
+### Architecture
+
+`Distributed Systems` · `DDD` · `Event-Driven Architecture` · `High-Concurrency Systems`
+
+### Payments
+
+`Cross-border Payments` · `Transaction Systems` · `Payment Gateway` · `FX` · `Risk & Compliance`
+
+### AI Engineering
+
+`LLM` · `AI Agents` · `MCP` · `Tool Use` · `AI Coding`
+
+### Exploring
+
+`Python` · `TypeScript` · `Agent Architecture` · `AI Software Engineering`
+
+---
+
+## 🔭 Current Focus
+
+### AI Agents
+
+Understanding agent systems from first principles and turning concepts into working software.
+
+### MCP
+
+Exploring how AI models interact with tools, APIs, databases, codebases and enterprise systems.
+
+### Agent OS
+
+Designing the architecture of an enterprise-oriented Agent OS, including agents, skills, tools, context, task lifecycle and collaboration.
+
+### AI Software Engineering
+
+Exploring how AI changes software development, debugging, architecture and engineering workflows.
+
+### Payment Engineering
+
+Continuing to deepen my understanding of cross-border payment infrastructure and transaction systems.
+
+---
+
+## 🧩 Open Source
+
+Previously contributed to and worked with projects in the Java and cloud-native ecosystem, including **Nacos, RocketMQ and EventMesh**.
+
+My previous open-source work represents my engineering foundation.
+
+My current projects represent where I'm going next.
+
+---
+
+## 📫 Connect
+
+Interested in:
+
+`AI Engineering` · `AI Agents` · `MCP` · `Backend Architecture` · `Cross-border Payments` · `Distributed Systems`
+
+Feel free to explore my repositories or connect with me.
+
+---
+
+> **Build systems. Understand the domain. Use AI to make engineering better.**
