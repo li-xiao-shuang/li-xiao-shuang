@@ -73,11 +73,11 @@ Documenting what I learn, build and discover while exploring:
 
 ### Architecture
 
-`Distributed Systems` · `DDD` · `Event-Driven Architecture` · `High-Concurrency Systems`
+`Distributed Systems` · `DDD` · `Microservices` · `High-Concurrency Systems`
 
 ### Payments
 
-`Cross-border Payments` · `Transaction Systems` · `Payment Gateway` · `FX` · `Risk & Compliance`
+`Cross-border Payments` · `Transaction Systems` · `Payment Gateway` · `Crypto` · `Reconciliation` · `Payment Channel Integration`
 
 ### AI Engineering
 
